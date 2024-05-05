@@ -1,1 +1,1 @@
-console.log("i love kaaman")
+console.log("i love javascript")
